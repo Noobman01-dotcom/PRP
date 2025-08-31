@@ -14,3 +14,4 @@
 ### Hello
 
 I will be uploading the solutions of exercise given in class, the assignment solutions done after class, explanations in part where it is confusing
+also, will upload bertsilikas solution
