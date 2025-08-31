@@ -13,4 +13,4 @@
 
 ### Hello
 
-I will be uploading the notes and assignment solutions of the course **Probability and Random Processes**.
+I will be uploading the solutions of exercise given in class, the assignment solutions done after class, explanations in part where it is confusing
